@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hey there! 👋
+
+🌱 Currently experimenting with some projects, with particular interest in machine learning and neural networks :P
+
 
 <!--
-**ej1ng/ej1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
