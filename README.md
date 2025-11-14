@@ -1,6 +1,7 @@
 ## Hey there! 👋
 
 📚 Computer Engineering @ University of Waterloo
+
 🌱 Currently experimenting with some projects, with particular interest in machine learning and neural networks :P
 
 <!--
